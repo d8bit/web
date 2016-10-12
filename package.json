@@ -1,0 +1,25 @@
+{
+    "name": "uownmemoney",
+    "version": "0.1.0",
+    "devDependencies": {
+        "grunt": "^0.4.5",
+        "grunt-contrib-cssmin": "latest",
+        "grunt-contrib-jshint": "latest",
+        "grunt-contrib-nodeunit": "latest",
+        "grunt-contrib-uglify": "latest",
+        "grunt-contrib-watch": "latest",
+        "grunt-sass": "latest"
+    },
+    "description": "YouOwnMeMoneyHOne",
+    "main": "Gruntfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:sickboy83/uownmemoney.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "homepage": "git+https://d8bit@bitbucket.org/d8bit/rodenas.gi://github.com/sickboy83/uownmemoneye"
+}
